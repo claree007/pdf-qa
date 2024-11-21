@@ -2,6 +2,8 @@
 
 This application allows you to upload a pdf file and ask questions about it. This is done with the help of similarity search and answer generation using openai embeddings and models.
 
+![image](https://raw.githubusercontent.com/claree007/pdf-qa/refs/heads/main/Screenshot%202024-11-21%20at%209.20.08%20PM.png)
+
 ## Setup
 
 **Requirements**
